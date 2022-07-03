@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    padding-left: 10px;
+}
+h1 {
+    color: seagreen;
+    font-size: 50px;
+    text-decoration: underline;
+}
+h2 {
+    margin-left: 10%;
+}
+.pink {
+    color:palevioletred;
+}
+.tomato {
+    color: tomato;
+}
+.blue {
+    color: slateblue;
+}
+.first {
+    border: 3px solid blueviolet;
+    padding: 20px;
+    width: 25%;
+}
+.second {
+    border: 3px solid greenyellow;
+    margin-left: 35%;
+    padding: 25px;
+    width: 25%;
+}
+.third {
+    border: 3px solid darkgoldenrod;
+    margin-left: 70%;
+    padding: 25px;
+    width: 25%;
+}
